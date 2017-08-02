@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fe7d89dd39cf0754f9916c7eedd112e0
+timeCreated: 1501410671
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kids Club
+  fontNames:
+  - Kids Club
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
